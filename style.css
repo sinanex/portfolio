@@ -1,0 +1,153 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+ 
+
+.mainn-section{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+.navbar{
+    background-color: black;
+    position: fixed;
+}
+.navbar a{
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+}
+.navbar-nav .nav-link {
+    color: #fdf8f8; 
+
+}
+ul li{
+    padding-left: 30px;
+}
+
+
+
+span{
+    background-image: linear-gradient(to right, #175dc7, #10a7e2);
+}
+.iconss i{
+    color: white;
+    margin-top: -30px;
+}
+.main{
+    padding-top: 10rem;
+    background-color: black;
+}
+.buttons-div{
+    margin-top: 5rem;
+}
+.sec-section{
+    font-family: "Poppins", sans-serif;
+    margin-top: 3rem;
+}
+
+.about-me p{
+    font-size: 14px;
+    padding-left: 3rem;
+}
+
+
+
+.homme{
+    padding: 0;
+    margin: 0;
+    
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+.sec-section{
+    background-color: rgb(0, 0, 0);
+    margin-top: 30px;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+.about-me p{
+    margin: 30px;
+}
+.fixx{
+    position: fixed;
+}
+.img-fluid{
+    border-radius: 5%;
+}
+.about-c{
+    width: 430px;
+    height: 330px;
+    margin-right: 120px;
+    color: white;
+    padding-left: 35px;
+
+}
+.btn-home{
+     background-image: linear-gradient(to right, #175dc7, #10a7e2);
+     width: 110px;
+     height: 35px;
+     border-radius: 20px;
+
+}
+.progress{
+    margin: 30px;
+ 
+}
+.progress-bar{
+    background-image: linear-gradient(to right, #0a3370, #10a7e2);
+}
+.skill-section{
+    color: #fafafa;
+    font-family: "Poppins", sans-serif;
+
+}
+.skill-section h4{
+    margin-left: 30px;
+    font-weight: 600;
+}
+.s-bar{
+    margin-top: 10px;
+}
+.skill-section h3{
+    font-weight: 700;
+    
+}
+.bars{
+     position: relative;
+     top: 30px;
+}
+
+label{
+    margin-top: 20px;
+}
+/* Ensure input fields are fully black */
+input.form-control {
+    background-color: black !important;
+    color: white !important;
+    border: 1px solid white !important; /* Add a white border */
+    margin-top: 5px; /* Add space above each input field */
+}
+
+/* Style the placeholder text */
+input.form-control::placeholder {
+    color: #cccccc !important; /* Light grey placeholder */
+}
+
+/* Set the height of the message box */
+#inputMessage {
+    height: 80px !important;
+    padding: 2px !important;
+}
+
+/* Add space above the submit button */
+button[type="submit"] {
+    margin-top: 30px;
+    width: 100%;
+    background-image: linear-gradient(to right, #175dc7, #10a7e2); /* Adjust this value as needed */
+}
+
+.contact-section{
+    color: #fafafa;
+    font-family: "Poppins", sans-serif;
+}
+
